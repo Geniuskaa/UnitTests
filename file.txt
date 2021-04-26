@@ -1,0 +1,6 @@
+[
+  {
+    "nameOfProduct": "iphone",
+    "countOfProducts": 20
+  }
+]

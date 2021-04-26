@@ -1,0 +1,14 @@
+[
+  {
+    "nameOfProduct": "iphone",
+    "countOfProducts": 20
+  },
+  {
+    "nameOfProduct": "playstation 5",
+    "countOfProducts": 60
+  },
+  {
+    "nameOfProduct": "samsung",
+    "countOfProducts": 12
+  }
+]
