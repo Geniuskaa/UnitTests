@@ -12,13 +12,14 @@ public class Home_25_Main {
         ProductsFileSaver fileSaver = new ProductsFileSaver("file.txt");
         Store store = new Store(fileSaver);
 
-        store.addNewProduct("Iphone", 10);
+        //store.addNewProduct("Iphone", 10);
         //store.addNewProduct("Samsung", 15);
         //store.addNewProduct("Playstation 5", 142);
         //store.addNewProduct("Xbox One X", 3);
         //store.addNewProduct("LG", 1);
 
-        store.printAllProducts();
+        store.deleteProduct("Xbox one x");
+        //store.printAllProducts();
 
 
 

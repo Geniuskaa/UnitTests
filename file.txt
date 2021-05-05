@@ -2,5 +2,13 @@
   {
     "nameOfProduct": "iphone",
     "countOfProducts": 20
+  },
+  {
+    "nameOfProduct": "playstation 5",
+    "countOfProducts": 284
+  },
+  {
+    "nameOfProduct": "lg",
+    "countOfProducts": 2
   }
 ]
